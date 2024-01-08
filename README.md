@@ -24,7 +24,7 @@ It's is my personal version of the [original project](https://www.youtube.com/wa
 
 ### Links
 
-- Live Site URL: [https://github.com/Expertiner](https://github.com/Expertiner)
+- Live Site URL: [https://expertiner.github.io/landing-page-tutorial/?#](https://expertiner.github.io/landing-page-tutorial/?#)
 
 
 ## My process
